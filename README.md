@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @PauUy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-PauUy/PauUy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Paula Uy
+  
+- 👀 I’m interested in web development, particularly with C# and .NET.
+- 
+- 🌱 I’m currently learning Blazor and improving my front-end skills with HTML, CSS, and JavaScript.
+- 
+- 💞️ I’m looking to collaborate on open-source projects and web applications.
+- 
+- 📫 How to reach me: paulauy.25@gmail.com or connect with me on LinkedIn.
+- 
+- 😄 Pronouns: her/she
+- 
+ - ⚡ Fun fact: I find learning to code challenging at times, but I believe every obstacle makes the victories even more rewarding!
